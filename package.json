@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
+    "@rneui/base": "^4.0.0-rc.6",
+    "@rneui/themed": "^4.0.0-rc.6",
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
     "nativewind": "^2.0.5",
