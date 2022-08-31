@@ -61,7 +61,7 @@ const RideOptionsCard = () => {
         renderItem={({ item }) => (
           <TouchableOpacity
             onPress={() => setSelected(item)}
-            className={`flex-row items-center justify-between px-10 ${
+            className={`flex-row items-center justify-between px-5 ${
               item.id === selected?.id && 'bg-gray-200'
             }`}
           >
